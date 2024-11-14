@@ -39,5 +39,11 @@ return {
   { import = "astrocommunity.pack.php" },
   -- c#
   { import = "astrocommunity.pack.cs" },
+
+  -- Rust
+  { import = "astrocommunity.pack.rust" },
+
+  -- Angular
+  { import = "astrocommunity.pack.angular" },
   -- import/override with your plugins folder
 }
